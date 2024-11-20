@@ -49,11 +49,16 @@ After alignment, the plug is inserted into the test port, by moving downwards. T
 
 Briefly describe which concrete learning technique(s) you plan to use to achieve the goals of your project.
 
-If you plan to adapt a concrete approach from the literature (e.g. you want to follow a specific paper in your implementation), provide a brief description of the approach and why it might be suitable for your problem.
+In our project, we will be using Adaptive Curriculum Generation from Demonstrations (ACGD) from [1].
 
 ## Learning Data
 
 Briefly describe the data that you need / plan to use for solving the learning problem. If you use an existing dataset, shortly explain how the dataset fits your problem and whether you need to do any (re)labelling to fit your purpose; if you need to collect your own data, describe how you plan to collect the data (e.g. what simulation environment you plan to use).
+
+We will be using different data for each task
+- Task 1: We will collect a trajectory data of the Kinova arm using joystick and record both camera feed and end-effector pose data. Using this data we will train the model as mentioned in the paper [1].
+- Task 2: For this task, initially we will need to record data from position of task 1 to start of task 2 using same process as used in task 1. Then we will need another set of data to record the various positions of the pointers in the display. 
+- Task 3: 
 
 ## Expected Project Outcomes
 
@@ -72,4 +77,5 @@ Shortly describe how you plan to evaluate the learning success in your problem (
 ## References
 
 1. L. Hermann, M. Argus, A. Eitel, A. Amiranashvili, W. Burgard and T. Brox, "Adaptive Curriculum Generation from Demonstrations for Sim-to-Real Visuomotor Control," 2020 IEEE International Conference on Robotics and Automation (ICRA), Paris, France, 2020, pp. 6498-6505, doi: 10.1109/ICRA40945.2020.9197108. [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9197108)
+2. euRobin-MVSC Challenge [Link](https://sites.google.com/view/eurobin-msvc/)
 
