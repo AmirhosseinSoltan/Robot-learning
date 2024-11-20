@@ -21,7 +21,7 @@ In our project, we aim to develop a learning-based robotic manipulation framewor
 </p> -->
 <p float="left">
   <figure style="display:inline-block; text-align: center; margin-right: 20px;">
-    <img src="./images/kinova.png" width="100%" height="290"/>
+    <img src="./images/kinova.png" width="23%" height="290"/>
     <figcaption>Fig.1 Kinova Gen3 Robot</figcaption>
   </figure>
   <figure style="display:inline-block; text-align: center; margin-right: 20px;">
