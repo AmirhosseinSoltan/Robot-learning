@@ -104,7 +104,7 @@ List and briefly describe the main expected outcomes of your project (e.g. a sim
 
 ## References
 
-1. L. Hermann, M. Argus, A. Eitel, A. Amiranashvili, W. Burgard and T. Brox, "Adaptive Curriculum Generation from Demonstrations for Sim-to-Real Visuomotor Control," 2020 IEEE International Conference on Robotics and Automation (ICRA), Paris, France, 2020, pp. 6498-6505, doi: 10.1109/ICRA40945.2020.9197108. [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9197108)
+1. L. Hermann, M. Argus, A. Eitel, A. Amiranashvili, W. Burgard and T. Brox, "Adaptive Curriculum Generation from Demonstrations for Sim-to-Real Visuomotor Control," 2020 IEEE International Conference on Robotics and Automation (ICRA), Paris, France, 2020, pp. 6498-6505, doi: 10.1109/ICRA40945.2020.9197108. [Link](https://ieeexplore.ieee.org/document/9197108)
 2. euRobin-MVSC Challenge [Link](https://sites.google.com/view/eurobin-msvc/)
 3. euRobin-MVSC Challenge IoT Web Dashboard [Link](https://cloud.kaaiot.com/wd-public/c1v9jqmgul2l1s47m6bg/dashboards/0d2f0e4c-6a80-4cf4-a48d-5b25fcb35ac0/c3f502ea-b923-492f-b3c3-1a894e67afd6?public_id=4e4990d1-dcab-4f1a-b1a6-8648e87bc5ad)
 4. Kinova gen3 arm [Link](https://www.kinovarobotics.com/product/gen3-robots)
