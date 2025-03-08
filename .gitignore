@@ -1,0 +1,50 @@
+.DS_*
+/RL_Project/checkpoints/
+/RL_Project/log_dir/
+dataset/.DS_Store
+dataset/task_1_bag_2_data/
+dataset/task_1_bag_3_data/
+dataset/task_1_bag_4_data/
+
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+.env/
+.virtualenv/
+virtualenv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Model checkpoints and saved models
+*.pt
+*.pth
+*.h5
+*.ckpt
