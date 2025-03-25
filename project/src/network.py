@@ -39,7 +39,7 @@ class StateProcessor(nn.Module):
     def __init__(self):
         super(StateProcessor, self).__init__()
         # Fully connected layers for state processing
-        self.fc1 = nn.Linear(8, 64)  # 7 state inputs (x, y, z, theta_x, theta_y, theta_z, theta_w, remaining timesteps)
+        self.fc1 = nn.Linear(8, 64)  # 8 state inputs (x, y, z, theta_x, theta_y, theta_z, theta_w, remaining timesteps)
         self.fc2 = nn.Linear(64, 64)
         
         # Tanh activations
