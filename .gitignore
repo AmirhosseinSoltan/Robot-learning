@@ -1,1 +1,16 @@
 .DS_*
+/PROJECT/checkpoints/
+/PROJECT/dataset/
+/PROJECT/log_dir/
+/project proposal/
+project/src/__pycache__/dataloader.cpython-39.pyc
+project/src/__pycache__/acgd_network.cpython-39.pyc
+project/src/__pycache__/network.cpython-39.pyc
+project/src/__pycache__/training_engine.cpython-39.pyc
+project proposal/paper/Adaptive Curriculum Generation from Demonstrations for Sim-to-Real Visuomotor Control.pdf
+project/README.md
+project/playground.ipynb
+project/test_acgd_model.py
+project proposal/paper/Adaptive Curriculum Generation from Demonstrations for Sim-to-Real Visuomotor Control.pdf
+project/src/__pycache__/network.cpython-312.pyc
+project proposal/paper/Adaptive Curriculum Generation from Demonstrations for Sim-to-Real Visuomotor Control.pdf
